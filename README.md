@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A26,50:2E5E3A,100:6FA552&height=190&section=header&text=Hi%2C%20I%27m%20Alexey&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Machine%20Learning%20%C3%97%20Economics&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A26,50:2E5E3A,100:6FA552&height=190&section=header&text=Aleksey Karasev&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Machine%20Learning%20%C3%97%20Economics&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=5FA04E&center=true&vCenter=true&width=640&lines=ML+Engineer;LLM+Agents+%26+RAG+Systems;Causal+Inference+%26+A%2FB+Testing;Time-Series+Forecasting" alt="Typing SVG" /></a>
 
