@@ -15,9 +15,9 @@ I am an economist working as a Data Scientist
 ## 🧭 What I Do
 
 - 🌲 **Classical ML**
-- 🤖 **LLM products in production.**
+- 🤖 **LLM products**
 - 🔄 **ETL**
-- 🧪 **Experimentation & causal inference.**
+- 🧪 **Experiments & causal inference.**
 - ⏱️ **Time Series Forecasting**
 
 ---
